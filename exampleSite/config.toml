@@ -1,4 +1,4 @@
-baseURL = "https://www.lexon/meetup.netlify.com"
+baseURL = "https://www.lexon-meetup.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
